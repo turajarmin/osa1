@@ -89,3 +89,8 @@ div.parent:hover>div.info>h2,div.parent:hover>div.info>h3,div.parent:hover>div.i
     transform: translateY(0);
     opacity: 1;
 }
+div.slider{
+    width: 100%;
+    height: 200px;
+    background-color: blueviolet;
+}
